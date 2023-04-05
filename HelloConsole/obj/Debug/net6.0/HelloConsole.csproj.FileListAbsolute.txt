@@ -1,0 +1,15 @@
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/HelloConsole
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/HelloConsole.deps.json
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/HelloConsole.runtimeconfig.json
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/HelloConsole.dll
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/ref/HelloConsole.dll
+/home/robert/Desktop/C#learning/HelloConsole/bin/Debug/net6.0/HelloConsole.pdb
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.AssemblyReference.cache
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfoInputs.cache
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfo.cs
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.CoreCompileInputs.cache
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.dll
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/ref/HelloConsole.dll
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.pdb
+/home/robert/Desktop/C#learning/HelloConsole/obj/Debug/net6.0/HelloConsole.genruntimeconfig.cache
